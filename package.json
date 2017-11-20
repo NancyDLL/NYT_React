@@ -1,0 +1,26 @@
+{
+  "name": "nyt_react",
+  "version": "1.0.0",
+  "description": "For the week 20 KU Coding Bootcamp assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NancyDLL/NYT_React.git"
+  },
+  "author": "Nan Loyd-Leffingwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NancyDLL/NYT_React/issues"
+  },
+  "homepage": "https://github.com/NancyDLL/NYT_React#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.4",
+    "react": "^16.1.1"
+  }
+}
